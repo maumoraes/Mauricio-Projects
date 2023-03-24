@@ -1,2 +1,6 @@
 ## Important git commands
 
+##Logging commands:
+git log 
+git shortlog
+git show
